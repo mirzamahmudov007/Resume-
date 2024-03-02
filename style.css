@@ -178,6 +178,9 @@ header {
     font-size: 13px;
   }
 
+  #resume_content span {
+    font-size: 13px;
+  }
   vertical_line p,
   .vertical_line span {
     font-size: 13px;
@@ -188,6 +191,17 @@ header {
   .text {
     font-size: 13px;
   }
+
+  .resume_blog {
+    font-size: 22px;
+  }
+
+  .resume_blog_title {
+    font-size: 32px;
+  }
+}
+.resume_blog_title {
+  font-size: 17px;
 }
 /* 
 @media only screen and (max-width: 572px) {
