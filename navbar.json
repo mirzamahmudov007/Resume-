@@ -1,0 +1,10 @@
+{
+    "navbar":[
+        {
+            "navList":["Home" , "About" , "Skills" , "Portfolio" , "Contact"]
+        },
+        {
+           "navList":["Uy" , "Haqida" , "Qobiliyatlar" , "PortfolioUz" , "Kontakt"] 
+        }
+    ]
+}
