@@ -105,6 +105,9 @@ header {
 }
 
 @media only screen and (max-width: 400px) {
+  #process p {
+    font-size: 13px;
+  }
   #gmail + span {
     font-size: 13px;
   }
@@ -178,6 +181,9 @@ header {
     font-size: 13px;
   }
 
+  .resume_blog_blog {
+    font-size: 13px;
+  }
   #resume_content span {
     font-size: 13px;
   }
@@ -193,7 +199,7 @@ header {
   }
 
   .resume_blog {
-    font-size: 22px;
+    font-size: 18px;
   }
 
   .resume_blog_title {
