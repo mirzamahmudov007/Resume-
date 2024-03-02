@@ -104,7 +104,7 @@ header {
   }
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 400px) {
   #gmail + span {
     font-size: 13px;
   }
@@ -145,9 +145,39 @@ header {
   #about_age {
     font-size: 15px;
   }
-}
 
-@media only screen and (max-width: 572px) {
+  .text-muted {
+    font-size: 12px;
+  }
+  .main_title_main,
+  .typed_text {
+    font-size: 21px;
+  }
+  #main_text {
+    font-size: 13px;
+  }
+
+  #btn1,
+  #btn2 {
+    font-size: 13px;
+  }
+
+  #about_title,
+  .about_text {
+    font-size: 21px;
+  }
+  .myname {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  #about_title_text,
+  .about_text_title,
+  #about_footer,
+  #was_born,
+  .about_text_title {
+    font-size: 13px;
+  }
+
   vertical_line p,
   .vertical_line span {
     font-size: 13px;
@@ -159,3 +189,16 @@ header {
     font-size: 13px;
   }
 }
+/* 
+@media only screen and (max-width: 572px) {
+  vertical_line p,
+  .vertical_line span {
+    font-size: 13px;
+  }
+  .resume ul li {
+    font-size: 13px;
+  }
+  .text {
+    font-size: 13px;
+  }
+} */
